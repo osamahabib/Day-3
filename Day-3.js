@@ -133,7 +133,7 @@ let myData = {
 
     HSC : {
       School : 'City Montesori School',
-      passingYear : 2015
+      passingYear : 2013
     },
 
   },
